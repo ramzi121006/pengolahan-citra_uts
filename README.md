@@ -49,7 +49,7 @@ Pada tahap ini dilakukan segmentasi menggunakan tiga metode:
 
 ## 🌱 3. Region Growing
 
-![Region](output/region.png)
+![Region](https://github.com/ramzi121006/pengolahan-citra_uts/blob/f4c253c1447f1889fabaf912173f7b29c7ac01ad/ss_citra/region.png)
 
 Metode ini mengambil area berdasarkan titik awal (*seed*).
 
