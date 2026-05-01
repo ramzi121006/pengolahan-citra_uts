@@ -94,7 +94,7 @@ Mengelompokkan pixel berdasarkan kemiripan intensitas.
 
 ## 🌊 6. Watershed
 
-![Watershed](output/watershed.png)
+![Watershed](ohttps://github.com/ramzi121006/pengolahan-citra_uts/blob/86b7ed6a3f103ce293010ddb0ba7641a338895ab/ss_citra/watershed.png)
 
 Digunakan untuk memisahkan objek yang saling menempel.
 
