@@ -80,7 +80,7 @@ Canny memberikan hasil terbaik karena noise lebih terkontrol.
 
 ## 🎨 5. K-Means Clustering
 
-![KMeans](output/kmeans.png)
+![KMeans](https://github.com/ramzi121006/pengolahan-citra_uts/blob/475f02cdb3b71b09dc9af56d78231719d98598e3/ss_citra/Kmens.png)
 
 Mengelompokkan pixel berdasarkan kemiripan intensitas.
 
