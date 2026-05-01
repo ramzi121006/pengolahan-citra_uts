@@ -114,7 +114,7 @@ Proses:
 
 ## 📊 7. Evaluasi (IoU & Dice)
 
-![Evaluasi](output/evaluasi.png)
+![Evaluasi](https://github.com/ramzi121006/pengolahan-citra_uts/blob/b2b297426642bf9d333d1cf03bcd883c7d02e527/ss_citra/evaluasi.png)
 
 Evaluasi dilakukan dengan membandingkan hasil segmentasi dengan ground truth.
 
